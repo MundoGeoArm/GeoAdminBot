@@ -1,0 +1,32 @@
+{
+    "México": {
+        "última carga datos": "No-registrado",
+        "último cálculo": "No-registrado",
+        "CAPITAL": "No-registrado",
+        "TERRITORIO_KM2": 0,
+        "CONTINENTES": [],
+        "CLIMAS": [],
+        "HABITANTES": {
+            "nacionales": 0,
+            "extranjeros": 0
+        },
+        "IDIOMAS": [],
+        "RELIGIONES": [],
+        "RECURSOS_NATURALES": {
+            "REC-MAD": 10000,
+            "REC-CON": 0,
+            "REC-HIE": 0,
+            "REC-ALU": 0,
+            "REC-COB": 0,
+            "REC-PLO": 0,
+            "REC-ORO": 0,
+            "REC-TIT": 0,
+            "REC-LIT": 0,
+            "REC-URA": 0,
+            "REC-PET": 0,
+            "REC-GAS": 0,
+            "REC-AGU": 0
+        },
+        "INVENTARIO": {}
+    }
+}
